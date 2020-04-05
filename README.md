@@ -4,9 +4,7 @@ How to run our code
 1. First run cred_transfer.sh to transfer all the aws credentials and necessary scripts from local to raspberry pi and controller (ec2 instance). Note: Change the local directory in the script file before you run.
 2. Run panda.py in raspberry pi inside the folder Darknet (This script runs a shell command which uses gnome terminal command to run recorder.py, uploader.py and pi_run.py in raspberry pi at the same time).
 3. Make sure the static ec2 instance where the controller is present is running.
-Team Members Name:
-1. Nithish Moudhgalya - 1217186074
-2. Raghavendar Thiruvopadi – 1217025575
+
 AWS Bucket Name:
 Request Bucket - cc1-proj-req-bucket Response Bucket - cc1-proj-res-bucket
 AWS Region:
